@@ -1,3 +1,3 @@
 # utils_pytorch
 
-Personal work and collection of useful computer vision code
+Personal collection of useful computer vision code
